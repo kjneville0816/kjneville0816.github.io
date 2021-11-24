@@ -8,7 +8,7 @@ Currently conducting research in Human Factors and Ergonomics
 Undergraduate:B.S.  Industrial Systems Engineering May 2021 
 Graduate: M.S. Systems Engineering May 2022
 [Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/download.jpg?raw=true"/>
 
 ---
 ### Work Experience
